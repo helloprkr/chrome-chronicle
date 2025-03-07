@@ -219,3 +219,5 @@ Made with ❤️ by [HelloPrkr](https://github.com/helloprkr)
 If you find ChromeChronicle useful, please consider giving it a ⭐ on GitHub and sharing it with friends!
 
 </div>
+
+

@@ -15,7 +15,7 @@ Automatically save your Chrome browsing history as beautiful markdown files, org
 ✅ Privacy-focused (stays on your machine)
 ✅ Easy installation
 
-Try it: github.com/yourusername/ChromeChronicle
+Try it: github.com/helloprkr/chrome-chronicle
 
 #ChromeChronicle #macOS #Automation
 ```
@@ -63,7 +63,7 @@ ChromeChronicle automatically extracts your daily Chrome browsing history and sa
 
 This project stemmed from my own need to better understand my online habits and quickly find sites I'd visited in the past. The automation aspect makes it completely hands-off—set it once and forget it!
 
-Check it out on GitHub: github.com/yourusername/ChromeChronicle
+Check it out on GitHub: github.com/helloprkr/chrome-chronicle
 
 #OpenSource #Python #Automation #ProductivityTools #macOS
 ```
@@ -118,7 +118,7 @@ I wanted to keep track of websites I visited for research and projects, but coul
 - 🔒 Privacy-focused (stays on your machine)
 - 📱 Lightweight (minimal resource usage)
 
-The code is open source and available on GitHub: github.com/yourusername/ChromeChronicle
+The code is open source and available on GitHub: github.com/helloprkr/chrome-chronicle
 
 What do you think? Any features you'd like to see?
 ```

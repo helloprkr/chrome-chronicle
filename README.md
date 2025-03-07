@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ChromeChronicle Logo](./images/logo.png)
+![ChromeChronicle Logo](./images/01.png)
 
 *Your browsing history, beautifully chronicled.*
 
@@ -26,7 +26,7 @@ ChromeChronicle automatically extracts your daily Chrome browsing history and sa
 
 <div align="center">
 
-![Example Output](./images/example-output.png)
+![Example Output](./images/02.png)
 
 </div>
 
@@ -113,7 +113,7 @@ python3 /path/to/chrome-chronicle/chrome_history_extractor.py
 
 <div align="center">
 
-![Usage Workflow](./images/workflow.png)
+![Usage Workflow](./images/03.png)
 
 </div>
 
@@ -178,7 +178,7 @@ Check the following:
 
 <div align="center">
 
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](./images/04.png)
 
 </div>
 

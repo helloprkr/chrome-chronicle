@@ -1,0 +1,33 @@
+graph TD
+    A[User Browses Web] -->|Chrome Records History| B[Chrome History Database]
+    C[Initial Setup] -->|One-time Installation| D[LaunchD Configuration]
+    D -->|Scheduled Daily Execution| E[ChromeChronicle Script]
+    B -->|Read History| E
+    E -->|Process Data| F[Create Markdown Files]
+    F -->|Organize by Date| G[Year-Month Directories]
+    H[User] -->|Review Past Browsing| G
+    
+    subgraph "One-Time Setup"
+        C
+    end
+    
+    subgraph "Daily Automation"
+        D
+        E
+        F
+        G
+    end
+    
+    subgraph "User Activities"
+        A
+        H
+    end
+    
+    style A fill:#EA4335,stroke:#333,stroke-width:2px,color:white
+    style B fill:#4285F4,stroke:#333,stroke-width:2px,color:white
+    style C fill:#FBBC05,stroke:#333,stroke-width:2px
+    style D fill:#34A853,stroke:#333,stroke-width:2px,color:white
+    style E fill:#1A365D,stroke:#333,stroke-width:2px,color:white
+    style F fill:#F5E7C1,stroke:#333,stroke-width:2px
+    style G fill:#F5E7C1,stroke:#333,stroke-width:2px
+    style H fill:#EA4335,stroke:#333,stroke-width:2px,color:white 

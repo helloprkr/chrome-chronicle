@@ -1,0 +1,35 @@
+graph TD
+    A[Browsing History for 2025-03-07] -->|Collected at 23:45:00| B[URLs Table]
+    
+    subgraph "Markdown File Structure"
+        A
+        B -->|Time Column| C[09:15:32]
+        B -->|Title Column| D[Example Website]
+        B -->|URL Column| E[https://example.com]
+        B -->|Visit Count Column| F[3]
+        
+        C --> G[10:23:45]
+        D --> H[Search Results]
+        E --> I[https://search.com]
+        F --> J[1]
+        
+        G --> K[14:05:17]
+        H --> L[Documentation]
+        I --> M[https://docs.example.com]
+        J --> N[5]
+    end
+    
+    style A fill:#1A365D,stroke:#333,stroke-width:2px,color:white
+    style B fill:#F5E7C1,stroke:#333,stroke-width:2px
+    style C fill:#4285F4,stroke:#333,stroke-width:2px,color:white
+    style D fill:#34A853,stroke:#333,stroke-width:2px,color:white
+    style E fill:#FBBC05,stroke:#333,stroke-width:2px
+    style F fill:#EA4335,stroke:#333,stroke-width:2px,color:white
+    style G fill:#4285F4,stroke:#333,stroke-width:2px,color:white
+    style H fill:#34A853,stroke:#333,stroke-width:2px,color:white
+    style I fill:#FBBC05,stroke:#333,stroke-width:2px
+    style J fill:#EA4335,stroke:#333,stroke-width:2px,color:white
+    style K fill:#4285F4,stroke:#333,stroke-width:2px,color:white
+    style L fill:#34A853,stroke:#333,stroke-width:2px,color:white
+    style M fill:#FBBC05,stroke:#333,stroke-width:2px
+    style N fill:#EA4335,stroke:#333,stroke-width:2px,color:white 

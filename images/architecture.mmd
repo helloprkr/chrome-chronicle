@@ -1,0 +1,12 @@
+graph LR
+    A[Chrome History DB] -->|Copy & Query| B[ChromeChronicle Script]
+    B -->|Process Data| C[Markdown Files]
+    B -->|Create| D[Monthly Directories]
+    D -->|Contain| C
+    E[macOS LaunchD] -->|Schedule| B
+    
+    style A fill:#4285F4,stroke:#333,stroke-width:2px,color:white
+    style B fill:#1A365D,stroke:#333,stroke-width:2px,color:white
+    style C fill:#F5E7C1,stroke:#333,stroke-width:2px
+    style D fill:#FBBC05,stroke:#333,stroke-width:2px
+    style E fill:#34A853,stroke:#333,stroke-width:2px,color:white 

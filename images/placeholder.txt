@@ -1,0 +1,8 @@
+This directory will contain images for the ChromeChronicle documentation.
+
+Suggested images to create:
+1. Logo/icon for ChromeChronicle
+2. Screenshot of the Chrome history in markdown format
+3. Installation process visualization
+4. Example of daily usage
+5. System architecture diagram 

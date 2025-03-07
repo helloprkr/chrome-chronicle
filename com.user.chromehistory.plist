@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.chromehistory</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/maximvs/Library/Mobile Documents/com~apple~CloudDocs/00X_000_JORDAN-PARKER-PLANS/Memory-🧿/Memory-🧿/chrome_history_extractor.py</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>23</integer>
+        <key>Minute</key>
+        <integer>45</integer>
+    </dict>
+    <key>StandardErrorPath</key>
+    <string>/Users/maximvs/Library/Mobile Documents/com~apple~CloudDocs/00X_000_JORDAN-PARKER-PLANS/Memory-🧿/Memory-🧿/chrome_history_error.log</string>
+    <key>StandardOutPath</key>
+    <string>/Users/maximvs/Library/Mobile Documents/com~apple~CloudDocs/00X_000_JORDAN-PARKER-PLANS/Memory-🧿/Memory-🧿/chrome_history_output.log</string>
+</dict>
+</plist> 

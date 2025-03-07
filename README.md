@@ -6,7 +6,7 @@
 
 *Your browsing history, beautifully chronicled.*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ChromeChronicle?style=social)](https://github.com/yourusername/ChromeChronicle/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/helloprkr/chrome-chronicle?style=social)](https://github.com/helloprkr/chrome-chronicle/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![macOS](https://img.shields.io/badge/platform-macOS-blue.svg)](https://www.apple.com/macos)
 
@@ -43,8 +43,8 @@ ChromeChronicle automatically extracts your daily Chrome browsing history and sa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ChromeChronicle.git
-   cd ChromeChronicle
+   git clone https://github.com/helloprkr/chrome-chronicle.git
+   cd chrome-chronicle
    ```
 
 2. Run the installation script:
@@ -62,8 +62,8 @@ ChromeChronicle automatically extracts your daily Chrome browsing history and sa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HelloPrkr/ChromeChronicle.git
-   cd ChromeChronicle
+   git clone https://github.com/helloprkr/chrome-chronicle.git
+   cd chrome-chronicle
    ```
 
 2. Make the Python script executable:
@@ -108,7 +108,7 @@ For example:
 You can run ChromeChronicle manually at any time:
 
 ```bash
-python3 /path/to/ChromeChronicle/chrome_history_extractor.py
+python3 /path/to/chrome-chronicle/chrome_history_extractor.py
 ```
 
 <div align="center">
@@ -157,7 +157,7 @@ Check the following:
   ```
 - Check log files for errors:
   ```bash
-  cat ~/path/to/ChromeChronicle/chrome_history_error.log
+  cat ~/path/to/chrome-chronicle/chrome_history_error.log
   ```
 </details>
 
@@ -214,8 +214,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by [HelloPrkr](https://github.com/HelloPrkr)
+Made with ❤️ by [HelloPrkr](https://github.com/helloprkr)
 
 If you find ChromeChronicle useful, please consider giving it a ⭐ on GitHub and sharing it with friends!
 
-</div> 
+</div>
